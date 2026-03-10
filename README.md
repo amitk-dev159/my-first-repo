@@ -1,4 +1,2 @@
-# my-first-repo
-this is my first git repository .
-<br>
+# Web Design
 Author - Amit kumar
